@@ -1,0 +1,5 @@
+**.zip
+**.pbf
+frontend/config.js
+backend/__pycache__/**
+**.woff2
